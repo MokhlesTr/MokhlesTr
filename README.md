@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=600&lines=Better+Call+Tarmiz!+%F0%9F%92%AB" alt="Typing SVG"/>
 </p>
 
-Hi! I'm a **full-stack & mobile developer** passionate about building modern, real-world apps.  
+Hi! I'm a **mobile & web developer** passionate about building modern, real-world apps.  
 
 💻 **What I do:** React Native & Expo | Django & Node.js | AI-powered apps | 3D web with Three.js  
 
