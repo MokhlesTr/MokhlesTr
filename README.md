@@ -1,7 +1,5 @@
-# 💫 Better Call Tarmiz! 😎
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=600&lines=Better+Call+Tarmiz!+%F0%9F%92%AB+Full-Stack+%26+Mobile+Dev" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=600&lines=Better+Call+Tarmiz!+%F0%9F%92%AB" alt="Typing SVG"/>
 </p>
 
 Hi! I'm a **full-stack & mobile developer** passionate about building modern, real-world apps.  
