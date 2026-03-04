@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=600&lines=Better+Call+Tarmiz!+%F0%9F%92%AB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=600&lines=Better+Call+Tarmiz!" alt="Typing SVG"/>
 </p>
 
 Hi! I'm a **mobile & web developer** passionate about building modern, real-world apps.  
@@ -7,7 +7,7 @@ Hi! I'm a **mobile & web developer** passionate about building modern, real-worl
 💻 **What I do:** React Native & Expo | Django & Node.js | AI-powered apps | 3D web with Three.js  
 
 🌐 **Portfolio & Contact:**  
-[🌟 Visit my Portfolio](https://mokhles.etherial.fr) | [LinkedIn](https://www.linkedin.com/in/mokhles-tarmiz-90b464260) | [Email](mailto:mokhles.tarmiz@polytechnicien.tn)
+[🌟 Visit my Portfolio](http://yck0swwkwocgkowo4owkoc88.173.212.221.247.sslip.io/) | [LinkedIn](https://www.linkedin.com/in/mokhles-tarmiz-90b464260) | [Email](mailto:mokhles.tarmiz@polytechnicien.tn)
 
 ---
 
