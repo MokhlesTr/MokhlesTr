@@ -30,6 +30,3 @@ Hi! I'm a **mobile & web developer** passionate about building modern, real-worl
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<p align="center">
-  <em>“Better Call Tarmiz!” – because bugs fear me and code obeys 😎</em>
-</p>
