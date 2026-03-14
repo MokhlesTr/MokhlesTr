@@ -44,5 +44,5 @@ Check out some of my custom packages and contributions:
 
 A lightweight and customizable **Toast notification library** for React Native, built to make alerts and notifications easy and elegant.  
 
-[View on GitHub](https://github.com/MokhlesTr/react-native-toast) | [View on npm](https://www.npmjs.com/package/react-native-toast)
+[View on GitHub](https://github.com/MokhlesTr/react-native-toast) | [View on npm](https://www.npmjs.com/package/@tarmiz/react-native-toast)
 
