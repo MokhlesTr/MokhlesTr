@@ -30,3 +30,18 @@ Hi! I'm a **mobile & web developer** passionate about building modern, real-worl
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+---
+
+## 🚀 Open Source Packages
+
+Check out some of my custom packages and contributions:
+
+<p align="center">
+  <a href="https://github.com/MokhlesTr/react-native-toast">
+    <img src="https://img.shields.io/badge/react--native--toast-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Native Toast"/>
+  </a>
+</p>
+
+A lightweight and customizable **Toast notification library** for React Native, built to make alerts and notifications easy and elegant.  
+[View on GitHub](https://github.com/MokhlesTr/react-native-toast)
+
