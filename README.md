@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=600&lines=Better+Call+Tarmiz!" alt="Typing SVG"/>
 </p>
 
-Hi! I'm a **mobile & web developer** passionate about building modern, real-world apps.  
+Hi! I'm a **mobile & web developer** passionate about building modern, real-world apps.
 
-💻 **What I do:** React Native & Expo | Django & Node.js | AI-powered apps | 3D web with Three.js  
+💻 **What I do:** React Native & Expo | Django & Node.js | AI-powered apps | 3D web with Three.js
 
-🌐 **Portfolio & Contact:**  
+🌐 **Portfolio & Contact:**
 [🌟 Visit my Portfolio](http://yck0swwkwocgkowo4owkoc88.173.212.221.247.sslip.io/) | [LinkedIn](https://www.linkedin.com/in/mokhles-tarmiz-90b464260) | [Email](mailto:mokhles.tarmiz@polytechnicien.tn)
 
 ---
@@ -36,13 +36,38 @@ Hi! I'm a **mobile & web developer** passionate about building modern, real-worl
 
 Check out some of my custom packages and contributions:
 
+---
+
+### 🔔 Web Glass Toast
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@tarmiz/web-glass-toast">
+    <img src="https://img.shields.io/badge/web--glass--toast-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Glass Toast"/>
+  </a>
+</p>
+
+A **modern glassmorphism toast notification library for the web** with smooth animations and beautiful UI.
+
+📚 **Documentation**
+https://web-glass-toast-documentation.vercel.app/
+
+📦 **NPM**
+https://www.npmjs.com/package/@tarmiz/web-glass-toast
+
+---
+
+### 📱 React Native Toast
+
 <p align="center">
   <a href="https://github.com/MokhlesTr/react-native-toast">
     <img src="https://img.shields.io/badge/react--native--toast-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Native Toast"/>
   </a>
 </p>
 
-A lightweight and customizable **Toast notification library** for React Native, built to make alerts and notifications easy and elegant.  
+A lightweight and customizable **Toast notification library** for React Native, built to make alerts and notifications easy and elegant.
 
-[View on GitHub](https://github.com/MokhlesTr/react-native-toast) | [View on npm](https://www.npmjs.com/package/@tarmiz/react-native-toast)
+💻 **GitHub**
+https://github.com/MokhlesTr/react-native-toast
 
+📦 **NPM**
+https://www.npmjs.com/package/@tarmiz/react-native-toast
