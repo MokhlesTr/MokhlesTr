@@ -4,7 +4,7 @@
 
 Hi! I'm a **mobile & web developer** passionate about building modern, real-world apps.
 
-💻 **What I do:** React Native & Expo | Django & Node.js | AI-powered apps | 3D web with Three.js
+💻 **What I do:** React Native & Expo | Django & Node.js | 3D web with Three.js
 
 🌐 **Portfolio & Contact:**
 [🌟 Visit my Portfolio](http://yck0swwkwocgkowo4owkoc88.173.212.221.247.sslip.io/) | [LinkedIn](https://www.linkedin.com/in/mokhles-tarmiz-90b464260) | [Email](mailto:mokhles.tarmiz@polytechnicien.tn)
@@ -48,8 +48,11 @@ Check out some of my custom packages and contributions:
 
 A **modern glassmorphism toast notification library for the web** with smooth animations and beautiful UI.
 
-📚 **Documentation**
+📚 **Live Documentation**
 https://web-glass-toast-documentation.vercel.app/
+
+💻 **GitHub**
+https://github.com/MokhlesTr/web-glass-toast
 
 📦 **NPM**
 https://www.npmjs.com/package/@tarmiz/web-glass-toast
