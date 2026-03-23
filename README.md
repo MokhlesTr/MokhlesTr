@@ -44,9 +44,8 @@ Check out some of my packages:
   <a href="https://www.npmjs.com/package/@tarmiz/web-glass-toast">
     <img src="https://img.shields.io/npm/v/@tarmiz/web-glass-toast?style=for-the-badge&logo=npm&label=web-glass-toast"/>
   </a>
-  <img src="https://img.shields.io/npm/dw/@tarmiz/web-glass-toast?style=for-the-badge&label=downloads"/>
-</p>
-
+<img src="https://img.shields.io/npm/dy/@tarmiz/web-glass-toast?style=for-the-badge&label=downloads"/>
+  
 A **modern glassmorphism toast notification library for the web** with smooth animations and beautiful UI.
 
 📚 **Live Documentation**  
@@ -66,7 +65,8 @@ https://www.npmjs.com/package/@tarmiz/web-glass-toast
   <a href="https://www.npmjs.com/package/@tarmiz/react-native-toast">
     <img src="https://img.shields.io/npm/v/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&label=react-native-toast"/>
   </a>
-  <img src="https://img.shields.io/npm/dw/@tarmiz/react-native-toast?style=for-the-badge&label=downloads"/>
+<img src="https://img.shields.io/npm/dy/@tarmiz/react-native-toast?style=for-the-badge&label=downloads"/>
+
 </p>
 
 A lightweight and customizable **Toast notification library** for React Native.
