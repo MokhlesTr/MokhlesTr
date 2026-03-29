@@ -11,9 +11,9 @@ Yo! I'm a **mobile & web developer** passionate about building modern, real-worl
 **Portfolio & Contact:**  
 
 <p align="left">
- <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlesite&logoColor=white" alt="Portfolio"/>
-</a>
+  <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlesite&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/mokhles-tarmiz-90b464260">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -27,12 +27,12 @@ Yo! I'm a **mobile & web developer** passionate about building modern, real-worl
 ## ⚡ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
 </p>
 
@@ -61,7 +61,6 @@ A **modern glassmorphism toast library** for the web with smooth animations and 
   </a>
 </p>
 
-
 ---
 
 ### React Native Toast
@@ -81,4 +80,3 @@ A lightweight and customizable **Toast library** for React Native.
     <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   </a>
 </p>
-
