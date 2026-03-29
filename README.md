@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&width=600&lines=Better+Call+Tarmiz!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=FFD700&center=true&width=600&lines=Don%27t+Check+My+Portfolio;Seriously&repeat=false" alt="Typing SVG"/>
 </p>
 
-Hi! I'm a **mobile & web developer** passionate about building modern, real-world apps.
+Yo! I'm a **mobile & web developer** passionate about building modern, real-world apps.
 
 **What I do:** React & React Native development | Expo | Flutter | Three.js
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=MokhlesTr&color=00FFAA&style=flat-square)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=MokhlesTr&color=1E3A8A&style=flat-square)
 
 ## 🌐 Portfolio & Contact
 <p align="left">
-  <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00FFAA?style=for-the-badge&logo=googlesite&logoColor=white" alt="Portfolio"/>
-  </a>
+ <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlesite&logoColor=white" alt="Portfolio"/>
+</a>
   <a href="https://www.linkedin.com/in/mokhles-tarmiz-90b464260">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
