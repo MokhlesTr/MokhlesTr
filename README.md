@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=FFD700&center=true&width=700&lines=React+Native+Performance+%26+UX+Specialist;I+build+fast%2C+smooth+and+polished+mobile+apps&repeat=false" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=FFD700&center=true&width=700&lines=React+Native+Developer;I+build+fast%2C+smooth+and+polished+mobile+apps&repeat=false" alt="Typing SVG"/>
 </p>
-
-## 👋 Hey, I'm Mokhles
 
 I'm a **React Native developer** specialized in building **high-performance mobile apps** with **smooth UI/UX and production-ready animations**.
 
