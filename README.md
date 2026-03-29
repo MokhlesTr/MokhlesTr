@@ -8,10 +8,11 @@ Yo! I'm a **mobile & web developer** passionate about building modern, real-worl
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=MokhlesTr&color=1E3A8A&style=flat-square)
 
-## 🌐 Portfolio & Contact
+**Portfolio & Contact:**  
+
 <p align="left">
  <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlesite&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlesite&logoColor=white" alt="Portfolio"/>
 </a>
   <a href="https://www.linkedin.com/in/mokhles-tarmiz-90b464260">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
