@@ -1,14 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=FFD700&center=true&width=600&lines=Don%27t+Check+My+Portfolio;Seriously&repeat=false" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=FFD700&center=true&width=700&lines=React+Native+Performance+%26+UX+Specialist;I+build+fast%2C+smooth+and+polished+mobile+apps&repeat=false" alt="Typing SVG"/>
 </p>
 
-Yo! I'm a **mobile & web developer** passionate about building modern, real-world apps.
+## 👋 Hey, I'm Mokhles
 
-**What I do:** React & React Native development | Expo | Flutter | Three.js
+I'm a **React Native developer** specialized in building **high-performance mobile apps** with **smooth UI/UX and production-ready animations**.
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=MokhlesTr&color=1E3A8A&style=flat-square)
+* Experience building real-world mobile applications
+* Focused on performance optimization & fluid UX
+* I build fast, scalable, and polished mobile products
 
-**Portfolio & Contact:**  
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=MokhlesTr\&color=1E3A8A\&style=flat-square)
+
+---
+
+## 🌍 Portfolio & Contact
 
 <p align="left">
   <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
@@ -24,59 +30,63 @@ Yo! I'm a **mobile & web developer** passionate about building modern, real-worl
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack (Focused)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-Optimization-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Smooth%20Animations-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 My Open Source Projects
+## 🚀 Highlight Projects
 
-### Web Glass Toast
+### 📱 React Native Toast
 
-A **modern glassmorphism toast library** for the web with smooth animations and creative UI.
-
-<p align="center">
-  <img src="https://img.shields.io/npm/v/@tarmiz/web-glass-toast?style=for-the-badge&logo=npm&logoColor=white&label=version" alt="version"/>
-  <img src="https://img.shields.io/npm/dt/@tarmiz/web-glass-toast?style=for-the-badge&logo=npm&logoColor=white&label=downloads" alt="total downloads"/>
-</p>
+A lightweight and customizable **toast library for React Native**, focused on performance and smooth animations.
 
 <p align="center">
-  <a href="https://github.com/MokhlesTr/web-glass-toast">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://web-glass-toast-documentation.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Docs-00AAFF?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Live Docs"/>
-  </a>
-  <a href="https://www.npmjs.com/package/@tarmiz/web-glass-toast">
-    <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  </a>
-</p>
-
----
-
-### React Native Toast
-
-A lightweight and customizable **Toast library** for React Native.
-
-<p align="center">
-  <img src="https://img.shields.io/npm/v/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=version" alt="version"/>
-  <img src="https://img.shields.io/npm/dt/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=downloads" alt="total downloads"/>
+  <img src="https://img.shields.io/npm/v/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=version"/>
+  <img src="https://img.shields.io/npm/dt/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=downloads"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/MokhlesTr/react-native-toast">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.npmjs.com/package/@tarmiz/react-native-toast">
-    <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+    <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 🌐 Web Glass Toast
+
+A **glassmorphism toast library** for the web with smooth animations and modern UI.
+
+<p align="center">
+  <img src="https://img.shields.io/npm/v/@tarmiz/web-glass-toast?style=for-the-badge&logo=npm&logoColor=white&label=version"/>
+  <img src="https://img.shields.io/npm/dt/@tarmiz/web-glass-toast?style=for-the-badge&logo=npm&logoColor=white&label=downloads"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MokhlesTr/web-glass-toast">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://web-glass-toast-documentation.vercel.app/">
+    <img src="https://img.shields.io/badge/Docs-00AAFF?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+  <a href="https://www.npmjs.com/package/@tarmiz/web-glass-toast">
+    <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+</p>
+
+
+---
