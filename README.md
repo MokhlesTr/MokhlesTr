@@ -17,7 +17,7 @@ Yo! I'm a **mobile & web developer** passionate about building modern, real-worl
   <a href="https://www.linkedin.com/in/mokhles-tarmiz-90b464260">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mokhles.tarmiz@polytechnicien.tn">
+  <a href="mailto:mokhlestarmiz001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
