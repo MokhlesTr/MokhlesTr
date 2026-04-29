@@ -12,7 +12,7 @@ I'm a **React Native developer** specialized in building **high-performance mobi
 
 ---
 
-## 🌍 Portfolio & Contact
+## Portfolio & Contact
 
 <p align="left">
   <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
@@ -28,7 +28,7 @@ I'm a **React Native developer** specialized in building **high-performance mobi
 
 ---
 
-## ⚡ Tech Stack (Focused)
+## Tech Stack (Focused)
 
   <p align="center">
   <img
@@ -51,27 +51,7 @@ I'm a **React Native developer** specialized in building **high-performance mobi
 
 ---
 
-## 🚀 Highlight Projects
-
-### 📱 React Native Toast
-
-A lightweight and customizable **toast library for React Native**, focused on performance and smooth animations.
-
-<p align="center">
-  <img src="https://img.shields.io/npm/v/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=version"/>
-  <img src="https://img.shields.io/npm/dt/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=downloads"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MokhlesTr/react-native-toast">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.npmjs.com/package/@tarmiz/react-native-toast">
-    <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white"/>
-  </a>
-</p>
-
----
+## Open Source Projects
 
 ### 🌐 Web Glass Toast
 
@@ -90,6 +70,26 @@ A **glassmorphism toast library** for the web with smooth animations and modern 
     <img src="https://img.shields.io/badge/Docs-00AAFF?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
   <a href="https://www.npmjs.com/package/@tarmiz/web-glass-toast">
+    <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📱 React Native Toast
+
+A lightweight and customizable **toast library for React Native**, focused on performance and smooth animations.
+
+<p align="center">
+  <img src="https://img.shields.io/npm/v/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=version"/>
+  <img src="https://img.shields.io/npm/dt/@tarmiz/react-native-toast?style=for-the-badge&logo=npm&logoColor=white&label=downloads"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MokhlesTr/react-native-toast">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.npmjs.com/package/@tarmiz/react-native-toast">
     <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
 </p>
