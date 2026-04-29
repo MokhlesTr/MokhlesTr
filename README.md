@@ -30,6 +30,14 @@ I'm a **React Native developer** specialized in building **high-performance mobi
 
 ## ⚡ Tech Stack (Focused)
 
+  <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokhlesTr&layout=compact&theme=tokyonight&hide=python,cmake,java&langs_count=6&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
