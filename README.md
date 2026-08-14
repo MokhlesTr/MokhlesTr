@@ -8,10 +8,8 @@ I'm a **React Native developer** specialized in building **high-performance mobi
 * Focused on performance optimization & fluid UX
 * I build fast, scalable, and polished mobile products
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=MokhlesTr\&color=1E3A8A\&style=flat-square)
-
 <p align="center">
-  <a href="https://p0-rtf-0-li-0-tarmiz.vercel.app/">
+  <a href="https://mokhles-tarmiz.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlesite&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mokhles-tarmiz-90b464260">
